@@ -19,3 +19,8 @@ Eric Kiara
     - User registers with an email
     - They must verify email address with the usual 'paste this URL or click it'
     - Once they register they'll get a drip email campaign over two weeks
+
+3. 'Library' or 'Record-Keeping' something, Plus using Django with Redis
+    - Learn some redis (thus some devops)
+    - Library/Records need to be at least 'six-figures' i.e. 100,000+
+
