@@ -24,3 +24,7 @@ Eric Kiara
     - Learn some redis (thus some devops)
     - Library/Records need to be at least 'six-figures' i.e. 100,000+
 
+4. Flask app that talks to sqlite
+    - Basic flask app
+    - Read and write to sqlite3
+    - Do all of C-R-U-D
