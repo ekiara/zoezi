@@ -28,3 +28,7 @@ Eric Kiara
     - Basic flask app
     - Read and write to sqlite3
     - Do all of C-R-U-D
+
+5. Generate a crap-ton of data
+    - The biggest problem I have with new projects is getting realistic data so
+      ho can I generate large amounts of data that looks "almost right"?
