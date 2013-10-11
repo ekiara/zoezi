@@ -32,3 +32,9 @@ Eric Kiara
 5. Generate a crap-ton of data
     - The biggest problem I have with new projects is getting realistic data so
       ho can I generate large amounts of data that looks "almost right"?
+
+6. 'micro-reddit' in Flask and Sinatra (yes, do this using both frameworks, so at least twice)
+    - User posts a message (title, text-in-markdown)
+    - Response to the title are shown heirachically (i.e. nested threads)
+    - Full text search
+
