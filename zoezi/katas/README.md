@@ -1,10 +1,10 @@
 # katas #
 
 
-# Author #
+## Author ##
 Eric Kiara
 
-# List #
+## List ##
 
 0. Django Application
     - with user auth and login
@@ -38,3 +38,7 @@ Eric Kiara
     - Response to the title are shown heirachically (i.e. nested threads)
     - Full text search
 
+7. web-mail interface
+    - Django web-mail interface that reads/writes Maildir or mbox
+    - Search?
+    - Gmail-esque features
